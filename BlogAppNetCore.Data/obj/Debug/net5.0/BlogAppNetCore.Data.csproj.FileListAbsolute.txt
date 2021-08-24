@@ -1,0 +1,6 @@
+C:\Users\Nadir\source\repos\BlogAppNetCore\BlogAppNetCore.Data\bin\Debug\net5.0\BlogAppNetCore.Entities.dll
+C:\Users\Nadir\source\repos\BlogAppNetCore\BlogAppNetCore.Data\bin\Debug\net5.0\BlogAppNetCore.Shared.dll
+C:\Users\Nadir\source\repos\BlogAppNetCore\BlogAppNetCore.Data\obj\Debug\net5.0\BlogAppNetCore.Data.csprojAssemblyReference.cache
+C:\Users\Nadir\source\repos\BlogAppNetCore\BlogAppNetCore.Data\obj\Debug\net5.0\BlogAppNetCore.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nadir\source\repos\BlogAppNetCore\BlogAppNetCore.Data\obj\Debug\net5.0\BlogAppNetCore.Data.AssemblyInfoInputs.cache
+C:\Users\Nadir\source\repos\BlogAppNetCore\BlogAppNetCore.Data\obj\Debug\net5.0\BlogAppNetCore.Data.AssemblyInfo.cs

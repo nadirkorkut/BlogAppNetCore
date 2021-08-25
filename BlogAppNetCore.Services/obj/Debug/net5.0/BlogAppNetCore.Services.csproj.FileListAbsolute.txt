@@ -10,3 +10,10 @@ C:\Users\Nadir\source\repos\BlogAppNetCore\BlogAppNetCore.Services\obj\Debug\net
 C:\Users\Nadir\source\repos\BlogAppNetCore\BlogAppNetCore.Services\obj\Debug\net5.0\BlogAppNetCore.Services.dll
 C:\Users\Nadir\source\repos\BlogAppNetCore\BlogAppNetCore.Services\obj\Debug\net5.0\ref\BlogAppNetCore.Services.dll
 C:\Users\Nadir\source\repos\BlogAppNetCore\BlogAppNetCore.Services\obj\Debug\net5.0\BlogAppNetCore.Services.pdb
+C:\Users\Nadir\source\repos\BlogAppNetCore\BlogAppNetCore.Services\bin\Debug\net5.0\BlogAppNetCore.Data.dll
+C:\Users\Nadir\source\repos\BlogAppNetCore\BlogAppNetCore.Services\bin\Debug\net5.0\BlogAppNetCore.Entities.dll
+C:\Users\Nadir\source\repos\BlogAppNetCore\BlogAppNetCore.Services\bin\Debug\net5.0\BlogAppNetCore.Shared.dll
+C:\Users\Nadir\source\repos\BlogAppNetCore\BlogAppNetCore.Services\bin\Debug\net5.0\BlogAppNetCore.Data.pdb
+C:\Users\Nadir\source\repos\BlogAppNetCore\BlogAppNetCore.Services\bin\Debug\net5.0\BlogAppNetCore.Entities.pdb
+C:\Users\Nadir\source\repos\BlogAppNetCore\BlogAppNetCore.Services\bin\Debug\net5.0\BlogAppNetCore.Shared.pdb
+C:\Users\Nadir\source\repos\BlogAppNetCore\BlogAppNetCore.Services\obj\Debug\net5.0\BlogAppNetCore.Services.csproj.CopyComplete

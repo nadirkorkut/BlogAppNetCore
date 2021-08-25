@@ -1,0 +1,12 @@
+C:\Users\Nadir\source\repos\BlogAppNetCore\BlogAppNetCore.Services\bin\Debug\net5.0\BlogAppNetCore.Services.deps.json
+C:\Users\Nadir\source\repos\BlogAppNetCore\BlogAppNetCore.Services\bin\Debug\net5.0\BlogAppNetCore.Services.dll
+C:\Users\Nadir\source\repos\BlogAppNetCore\BlogAppNetCore.Services\bin\Debug\net5.0\ref\BlogAppNetCore.Services.dll
+C:\Users\Nadir\source\repos\BlogAppNetCore\BlogAppNetCore.Services\bin\Debug\net5.0\BlogAppNetCore.Services.pdb
+C:\Users\Nadir\source\repos\BlogAppNetCore\BlogAppNetCore.Services\obj\Debug\net5.0\BlogAppNetCore.Services.csprojAssemblyReference.cache
+C:\Users\Nadir\source\repos\BlogAppNetCore\BlogAppNetCore.Services\obj\Debug\net5.0\BlogAppNetCore.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nadir\source\repos\BlogAppNetCore\BlogAppNetCore.Services\obj\Debug\net5.0\BlogAppNetCore.Services.AssemblyInfoInputs.cache
+C:\Users\Nadir\source\repos\BlogAppNetCore\BlogAppNetCore.Services\obj\Debug\net5.0\BlogAppNetCore.Services.AssemblyInfo.cs
+C:\Users\Nadir\source\repos\BlogAppNetCore\BlogAppNetCore.Services\obj\Debug\net5.0\BlogAppNetCore.Services.csproj.CoreCompileInputs.cache
+C:\Users\Nadir\source\repos\BlogAppNetCore\BlogAppNetCore.Services\obj\Debug\net5.0\BlogAppNetCore.Services.dll
+C:\Users\Nadir\source\repos\BlogAppNetCore\BlogAppNetCore.Services\obj\Debug\net5.0\ref\BlogAppNetCore.Services.dll
+C:\Users\Nadir\source\repos\BlogAppNetCore\BlogAppNetCore.Services\obj\Debug\net5.0\BlogAppNetCore.Services.pdb

@@ -13,7 +13,7 @@ namespace BlogAppNetCore.Data.Concrete.EntityFramework.Contexts
     {
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlServer(@"Server=NADIR;Database=BlogAppNetCore;Trusted_Connection=True;ConnectTimeout=30;MultipleActiveResultSets=True;");
+            optionsBuilder.UseSqlServer(@"Server=NADIR\SQLEXPRESS;Database=BlogAppNetCore;Trusted_Connection=True;MultipleActiveResultSets=True;");
         }
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {

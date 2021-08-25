@@ -4,3 +4,17 @@ C:\Users\Nadir\source\repos\BlogAppNetCore\BlogAppNetCore.Data\obj\Debug\net5.0\
 C:\Users\Nadir\source\repos\BlogAppNetCore\BlogAppNetCore.Data\obj\Debug\net5.0\BlogAppNetCore.Data.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Nadir\source\repos\BlogAppNetCore\BlogAppNetCore.Data\obj\Debug\net5.0\BlogAppNetCore.Data.AssemblyInfoInputs.cache
 C:\Users\Nadir\source\repos\BlogAppNetCore\BlogAppNetCore.Data\obj\Debug\net5.0\BlogAppNetCore.Data.AssemblyInfo.cs
+C:\Users\Nadir\source\repos\BlogAppNetCore\BlogAppNetCore.Data\bin\Debug\net5.0\BlogAppNetCore.Data.deps.json
+C:\Users\Nadir\source\repos\BlogAppNetCore\BlogAppNetCore.Data\bin\Debug\net5.0\BlogAppNetCore.Data.runtimeconfig.json
+C:\Users\Nadir\source\repos\BlogAppNetCore\BlogAppNetCore.Data\bin\Debug\net5.0\BlogAppNetCore.Data.runtimeconfig.dev.json
+C:\Users\Nadir\source\repos\BlogAppNetCore\BlogAppNetCore.Data\bin\Debug\net5.0\BlogAppNetCore.Data.dll
+C:\Users\Nadir\source\repos\BlogAppNetCore\BlogAppNetCore.Data\bin\Debug\net5.0\ref\BlogAppNetCore.Data.dll
+C:\Users\Nadir\source\repos\BlogAppNetCore\BlogAppNetCore.Data\bin\Debug\net5.0\BlogAppNetCore.Data.pdb
+C:\Users\Nadir\source\repos\BlogAppNetCore\BlogAppNetCore.Data\bin\Debug\net5.0\BlogAppNetCore.Entities.pdb
+C:\Users\Nadir\source\repos\BlogAppNetCore\BlogAppNetCore.Data\bin\Debug\net5.0\BlogAppNetCore.Shared.pdb
+C:\Users\Nadir\source\repos\BlogAppNetCore\BlogAppNetCore.Data\obj\Debug\net5.0\BlogAppNetCore.Data.csproj.CoreCompileInputs.cache
+C:\Users\Nadir\source\repos\BlogAppNetCore\BlogAppNetCore.Data\obj\Debug\net5.0\BlogAppNetCore.Data.csproj.CopyComplete
+C:\Users\Nadir\source\repos\BlogAppNetCore\BlogAppNetCore.Data\obj\Debug\net5.0\BlogAppNetCore.Data.dll
+C:\Users\Nadir\source\repos\BlogAppNetCore\BlogAppNetCore.Data\obj\Debug\net5.0\ref\BlogAppNetCore.Data.dll
+C:\Users\Nadir\source\repos\BlogAppNetCore\BlogAppNetCore.Data\obj\Debug\net5.0\BlogAppNetCore.Data.pdb
+C:\Users\Nadir\source\repos\BlogAppNetCore\BlogAppNetCore.Data\obj\Debug\net5.0\BlogAppNetCore.Data.genruntimeconfig.cache
